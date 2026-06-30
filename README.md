@@ -1,4 +1,3 @@
-markdown
 # Guide Generator Flow — Project Overview
 
 An AI-powered pipeline built with CrewAI Flows that turns mixed research sources (YouTube, web pages, arXiv papers, local documents) into a single summarized document

@@ -21,7 +21,7 @@ The project uses CrewAI Flow to chain these two crews in order, with shared stat
 
 ### End-to-End Flow
 
-
+```
 User Input (CLI)
        │
        ▼
@@ -35,7 +35,7 @@ User Input (CLI)
        │
        ▼
 outputs/getting_started_guide.md
-
+```
 
 ### Flow State (`ResearchFlowState`)
 

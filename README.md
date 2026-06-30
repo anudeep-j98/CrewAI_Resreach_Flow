@@ -163,16 +163,6 @@ The CLI prompts for YouTube links, web URLs, arXiv papers, and document paths (a
 
 ---
 
-## Possible Extensions
-
-- Wire `custom_tool.py` into an agent
-- Add non-interactive input (JSON/CLI args)
-- Support additional source types (GitHub repos, RSS, etc.)
-- Add a `plot` flow visualization entry point (referenced in `pyproject.toml`)
-
-
----
-
 ### Quick summary
 
 | Aspect | Detail |
